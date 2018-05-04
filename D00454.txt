@@ -1,0 +1,253 @@
+ENTRY       D00454                      Drug
+NAME        Olanzapine (JAN/USAN/INN);
+            Zyprexa (TN)
+PRODUCT     ZYPREXA (Bryant Ranch Prepack) 624d55e0-6cee-4366-9490-3b291c777c78
+            ZYPREXA (Dispensing Solutions) 71c6577c-ffea-4934-bc10-2d35942f8a16
+            ZYPREXA (Eli Lilly and Company) d5051fbc-846b-4946-82df-341fb1216341
+            ZYPREXA (H.J. Harkins Company) 0e986037-41c9-431e-b007-0e7764523fdd
+            ZYPREXA (Lake Erie Medical DBA Quality Care Products LLC) 3605a8c6-13db-409b-9e5c-19936fef9076
+            ZYPREXA (Lake Erie Medical DBA Quality Care Products LLC) abd4a67a-6334-427b-9ad4-4fafefa49e51
+            ZYPREXA (PD-Rx Pharmaceuticals) 7c6ff491-c30c-4ada-85a0-cbee98f2fe32
+            ZYPREXA (Physicians Total Care) 66ef201f-85eb-44f0-9ef0-1b618c6e0bff
+            ZYPREXA (Rebel Distributors Corp) a3c9ea17-3793-494a-8b32-44e48f9f4503
+            ZYPREXA (TYA Pharmaceuticals) 85688d8f-f2de-408a-8ae2-0976c266c961
+  GENERIC   OLANZAPINE (ACETRIS HEALTH) 13591d0b-0d4a-4bb4-bf49-d54ba5ca1759
+            OLANZAPINE (Ajanta Pharma Limited) 935f3fa3-72c4-4324-9c1d-869cef97c115
+            OLANZAPINE (Ajanta Pharma Limited) ee494188-3677-40bf-91e3-6f79d9b2db62
+            OLANZAPINE (American Health Packaging) 75616c31-8fed-4014-a9f2-4a028eccd586
+            OLANZAPINE (American Health Packaging) c0d705bf-b719-4c7b-b83d-c17d41cbbfad
+            OLANZAPINE (American Regent) e9ac2bd3-dbff-4b1a-952f-da3909c6e4ee
+            OLANZAPINE (Aphena Pharma Solutions - Tennessee) 64897790-86be-4db9-a8ff-3681d08a867b
+            OLANZAPINE (Apotex Corp.) 3347d1c8-04c9-5ce1-8cda-b38e0412b709
+            OLANZAPINE (Apotex Corp.) 96165590-b287-0ed9-3723-752af59aedad
+            OLANZAPINE (Ascend Laboratories) e8626e68-088d-47ff-bf06-489a778815aa
+            OLANZAPINE (Aurobindo Pharma Limited) 4d768cfe-3b20-4127-95b9-b4151b28afcc
+            OLANZAPINE (Aurobindo Pharma Limited) 636665be-9d7e-443a-8134-e8cc47e6ba24
+            OLANZAPINE (AvPAK) 86df14a1-96d2-fe00-53df-f4700b5f4ed8
+            OLANZAPINE (AvPAK) 98697cfd-5521-f8a9-af17-555031690b08
+            OLANZAPINE (Avera McKennan Hospital) 1f16f148-8b9c-4252-aa50-29add778e84e
+            OLANZAPINE (Avera McKennan Hospital) ded876b5-0212-4580-97f3-05b5ce7e0185
+            OLANZAPINE (Bryant Ranch Prepack) 0edc28d0-e5a3-4147-96f7-955ed8d439b3
+            OLANZAPINE (Bryant Ranch Prepack) 6a0e9cb3-21ae-4ac7-9643-5e045a29e62f
+            OLANZAPINE (Bryant Ranch Prepack) 8586e828-34e7-4eb4-a933-6c688927478f
+            OLANZAPINE (Cardinal Health) 120b31d1-4d56-4f28-8a90-dfcb9ad78d9c
+            OLANZAPINE (Cardinal Health) 16c999a9-399c-4407-883e-8e66b0239ed2
+            OLANZAPINE (Cardinal Health) 2996290f-db34-43eb-b627-573e23f61f7e
+            OLANZAPINE (Cardinal Health) 38a89689-efc2-4931-8f65-868dc0248d6a
+            OLANZAPINE (Clinical Solutions Wholesale) 09a8b91f-dea9-423a-8388-0b12dc7568be
+            OLANZAPINE (Clinical Solutions Wholesale) 97095119-28e7-4c9b-8727-ad5ea6010f7e
+            OLANZAPINE (Clinical Solutions Wholesale) d7e48ac5-f70a-4cf4-8fdb-bd941a5701fa
+            OLANZAPINE (Contract Pharmacy Services-PA) 5a1dc228-b757-5f2b-e053-2991aa0adccc
+            OLANZAPINE (Contract Pharmacy Services-PA) 5abc92df-b32f-c421-e053-2a91aa0a109d
+            OLANZAPINE (Dispensing Solutions) 2a98f6e2-b7f3-456a-8c6f-fac108185755
+            OLANZAPINE (Dispensing Solutions) e3d894b3-5cb6-4aab-bd4a-982f73110c7c
+            OLANZAPINE (Dr. Reddy's Laboratories) d474d5a9-d338-511d-5823-567c0a1bbf4d
+            OLANZAPINE (Dr. Reddy's Laboratories) 9a57a63e-f856-aafa-037a-c08f2fea6496
+            OLANZAPINE (Dr. Reddy's Laboratories) a4c525da-c2f6-b804-af49-601295922254
+            OLANZAPINE (Dr.Reddy's Laboratories Limited) aff02cff-d079-bc82-6182-a24c4c6e09a6
+            OLANZAPINE (Jubilant Cadista Pharmaceuticals) 028aa88e-fa50-7aa8-cc0b-97c0c9a0357c
+            OLANZAPINE (Lake Erie Medical DBA Quality Care Products LLC) 068fcc3a-d501-49c9-9da7-3cb5ef4732d5
+            OLANZAPINE (Macleods Pharmaceuticals Limited) 8e095987-bdea-42f2-9550-c7155cf07d30
+            OLANZAPINE (Macleods Pharmaceuticals Limited) df43938a-3469-40eb-8166-f0a2fd29d6d8
+            OLANZAPINE (Major Pharmaceuticals) 0ecbf540-572e-4ca4-b694-18ca1cd1c194
+            OLANZAPINE (Major Pharmaceuticals) 296e29ff-206d-409a-8c0f-10b2ec081be5
+            OLANZAPINE (Major Pharmaceuticals) 709d79a1-2742-4629-af43-161be166833a
+            OLANZAPINE (Mylan Institutional) d9c45681-da12-4966-8f81-069ad870884b
+            OLANZAPINE (Mylan Pharmaceuticals) 35b52ceb-5c07-49c5-9b1d-4708db66eaff
+            OLANZAPINE (NCS HealthCare of KY) 396f8df1-0513-4ac9-bb5d-95c510f21ad7
+            OLANZAPINE (NCS HealthCare of KY) afde9ad5-77d1-42cf-b78e-74265ac511d1
+            OLANZAPINE (NCS HealthCare of KY) e78e8834-ac55-4f59-ad56-c31cf86bc4e5
+            OLANZAPINE (Par Pharmaceutical) d974d2a4-fc65-42ff-8138-cfcfd7381534
+            OLANZAPINE (Physicians Total Care) 842b438f-86c7-44f2-a614-06915757a4dd
+            OLANZAPINE (Prasco Laboratories) 13adf724-aa00-46bf-a631-530db21f1683
+            OLANZAPINE (Prasco Laboratories) 7c894d76-ec69-449d-b32a-544bf38db690
+            OLANZAPINE (Proficient Rx LP) 1f4a2eaf-3a12-4ebe-b97f-0a7bfbc32572
+            OLANZAPINE (Proficient Rx LP) 20bcefd9-3cd0-4850-af39-aa9d15fe8857
+            OLANZAPINE (Proficient Rx LP) 7772a4c2-1fb1-412b-9e3b-ef3d693517a2
+            OLANZAPINE (Proficient Rx LP) ce66d545-015b-41d5-80c3-964d78e36bfd
+            OLANZAPINE (Proficient Rx LP) e40d54bf-7334-4418-8a87-ff85941adec1
+            OLANZAPINE (Proficient Rx LP) fcb7d340-a167-41f2-b85d-916c542067da
+            OLANZAPINE (REMEDYREPACK) 034ecaea-ccd2-44b4-a453-1e2e37872d70
+            OLANZAPINE (REMEDYREPACK) 04dbc692-d34a-4b7a-b9b6-e6c1a8c71b25
+            OLANZAPINE (REMEDYREPACK) 06501ea3-dd55-4230-b2ba-087a51f778ef
+            OLANZAPINE (REMEDYREPACK) 1fa663d9-51d2-40a9-9336-228b3f358821
+            OLANZAPINE (REMEDYREPACK) 242069a3-48b1-4093-88f5-46a643dc2719
+            OLANZAPINE (REMEDYREPACK) 4750cb3c-c642-431e-9f97-40f9d54879f9
+            OLANZAPINE (REMEDYREPACK) 4abcb08e-5e66-4a9f-b19f-90898725cf18
+            OLANZAPINE (REMEDYREPACK) 4ff92ebf-6e0d-458e-a000-ec30df7664d7
+            OLANZAPINE (REMEDYREPACK) 6ce59841-3088-4fd6-a229-2b0d4e54f48c
+            OLANZAPINE (REMEDYREPACK) 6d92d408-ba92-4eff-80a6-14cc0a1f4698
+            OLANZAPINE (REMEDYREPACK) 72aa6640-f4a6-47ce-b146-38242a8bfd79
+            OLANZAPINE (REMEDYREPACK) 78595179-3af7-4c65-bf86-5960e14df54d
+            OLANZAPINE (REMEDYREPACK) 79ce2ab3-f52e-46e8-a2a5-47d111c21b66
+            OLANZAPINE (REMEDYREPACK) 88edb3fc-fcb6-4483-859d-f830b077aca2
+            OLANZAPINE (REMEDYREPACK) 898e528d-5ea3-4992-8f44-72afa8f65e05
+            OLANZAPINE (REMEDYREPACK) 8e5ef52d-315b-4055-9e52-403e6f896f24
+            OLANZAPINE (REMEDYREPACK) b74e52c6-bb69-4d2d-8b55-5863e860f1c5
+            OLANZAPINE (REMEDYREPACK) b937d179-c259-4a79-802f-117f5d7cdde9
+            OLANZAPINE (REMEDYREPACK) bb20425b-69bc-4220-ade3-759a04326aba
+            OLANZAPINE (REMEDYREPACK) c48a25e9-0421-455c-82e3-0ff6c79b69b1
+            OLANZAPINE (REMEDYREPACK) d1ea62f1-ba77-4490-9a8f-9fa072b093f8
+            OLANZAPINE (REMEDYREPACK) d21ba11f-3e68-4315-a048-a91396ddae65
+            OLANZAPINE (REMEDYREPACK) d309592f-7574-4e2f-9f2b-ae8adf94c52c
+            OLANZAPINE (REMEDYREPACK) d329ddbc-89c5-4f8f-b5bc-73284bdb1ca1
+            OLANZAPINE (REMEDYREPACK) dc56c264-d10e-4059-b0d5-2feff16b345d
+            OLANZAPINE (REMEDYREPACK) dced8305-c0f2-43f4-9126-f316ab8c2f43
+            OLANZAPINE (REMEDYREPACK) e2703b48-a115-495b-92ed-6fe00510d2cd
+            OLANZAPINE (REMEDYREPACK) e830f488-c689-40f6-9351-f9c7454ff1ea
+            OLANZAPINE (REMEDYREPACK) f2319d87-04c1-46ef-8c82-ec5dd23b7170
+            OLANZAPINE (REMEDYREPACK) f6fec36a-b5f9-44ab-a595-9c50a0cf66be
+            OLANZAPINE (REMEDYREPACK) f92e02d1-d764-4e49-970a-edac7d3f8e7c
+            OLANZAPINE (Rebel Distributors Corp) 268c5d9e-a9ce-4ab5-8d7c-902c8be38c59
+            OLANZAPINE (Rebel Distributors Corp) d6a92eba-0841-474b-96f3-778f060ab133
+            OLANZAPINE (Rebel Distributors Corp) d976599a-0ee0-4fa4-afe6-bdfbca570afe
+            OLANZAPINE (Sandoz) 1e9666ef-4271-4834-8496-ccb3125d83db
+            OLANZAPINE (Sandoz) c44a96cc-817d-4eb5-a13a-00977f76e666
+            OLANZAPINE (Sun Pharmaceutical Industries Limited) 7f243027-7047-47c4-8b66-288c60ec2008
+            OLANZAPINE (TORRENT PHARMACEUTICALS LIMITED) 2cb1bebe-0ced-46d8-bf21-c28a9acc4a15
+            OLANZAPINE (TYA Pharmaceuticals) 0421e484-b7a3-4896-b1c7-73b23b38ba32
+            OLANZAPINE (TYA Pharmaceuticals) 0c5218ff-8d89-445d-ac96-b758ec6200f7
+            OLANZAPINE (TYA Pharmaceuticals) 3b3bc948-161e-49ee-b67f-4bbb63af23d6
+            OLANZAPINE (TYA Pharmaceuticals) 591f9bb1-f119-4739-87b0-de29c9446727
+            OLANZAPINE (TYA Pharmaceuticals) 80a810aa-d34c-48ca-a9c9-9a79e01afcee
+            OLANZAPINE (TYA Pharmaceuticals) fa6d5546-9bcd-4f4c-9751-15cccc665313
+            OLANZAPINE (Teva Pharmaceuticals USA) 676ace4e-7706-742d-cab0-430dd1f83408
+            OLANZAPINE (Teva Pharmaceuticals USA) dd0b2525-4e2f-44fc-9302-0ae4ebb1e135
+            OLANZAPINE (Teva Pharmaceuticals USA) f6ec3e3e-24c3-4360-b712-ca6017af1347
+            OLANZAPINE (Virtus Pharmaceuticals) 6a5db723-0f21-417e-a95c-cf0c438e8b44
+FORMULA     C17H20N4S
+EXACT_MASS  312.1409
+MOL_WEIGHT  312.4325
+CLASS       Cardiovascular agent
+             DG01466  Adrenergic receptor antagonist
+              DG01465  alpha-Adrenergic receptor antagonist
+               DG01457  alpha1-Adrenergic receptor antagonist
+            Neuropsychiatric agent
+             DG01478  Dopamine antagonist
+              DG01474  Dopamine D2-receptor antagonist
+              DG01475  Dopamine D3-receptor antagonist
+              DG01476  Dopamine D4-receptor antagonist
+            Anti-allergic agent
+             DG01557  Histamine receptor antagonist
+              DG01482  Histamine receptor H1 antagonist
+            Cyp substrate
+             DG01892  CYP1A2 substrate
+             DG01644  CYP2D6 substrate
+REMARK      Same as: C07322
+            Therapeutic category: 1179 2391
+            ATC code: N05AH03
+            Chemical structure group: DG00898
+            Product (DG00898): D00454<JP/US> D06623<US>
+            Product (mixture): D10206<US>
+EFFICACY    Antipsychotic
+  DISEASE   Schizophrenia [DS:H01649]
+            Bipolar I disorder, manic or mixed episodes [DS:H01653]
+COMMENT     Multi-acting-receptor-targeting-antipsychotics (MARTA)
+TARGET      HTR2 [HSA:3356 3357 3358] [KO:K04157]
+            HTR6 [HSA:3362] [KO:K04162]
+            HRH1 [HSA:3269] [KO:K04149]
+            ADRA1 [HSA:148 147 146] [KO:K04135 K04136 K04137]
+            DRD2 [HSA:1813] [KO:K04145]
+            DRD3 [HSA:1814] [KO:K04146]
+            DRD4 [HSA:1815] [KO:K04147]
+  PATHWAY   hsa04080(146+147+148+1813+1814+1815+3269+3356+3357+3358+3362)  Neuroactive ligand-receptor interaction
+            hsa04726(3356+3357+3358+3362)  Serotonergic synapse
+            hsa04728(1813+1814+1815)  Dopaminergic synapse
+METABOLISM  Enzyme: CYP1A2 [HSA:1544]; CYP2D6 [HSA:1565]
+INTERACTION  
+STR_MAP     map07117  Benzodiazepine family
+            map07211  Serotonin receptor agonists/antagonists
+            map07213  Dopamine receptor agonists/antagonists
+BRITE       Anatomical Therapeutic Chemical (ATC) classification [BR:br08303]
+             N NERVOUS SYSTEM
+              N05 PSYCHOLEPTICS
+               N05A ANTIPSYCHOTICS
+                N05AH Diazepines, oxazepines and thiazepines
+                 N05AH03 Olanzapine
+                  D00454  Olanzapine (JAN/USAN/INN)
+            USP drug classification [BR:br08302]
+             Antipsychotics
+              2nd Generation/Atypical
+               Olanzapine
+                D00454  Olanzapine (JAN/USAN/INN)
+             Bipolar Agents
+              Bipolar Agents, Other
+               Olanzapine
+                D00454  Olanzapine (JAN/USAN/INN)
+            Therapeutic category of drugs in Japan [BR:br08301]
+             1  Agents affecting nervous system and sensory organs
+              11  Agents affecting central nervous system
+               117  Psychotropics
+                1179  Others
+                 D00454  Olanzapine (JAN/USAN/INN)
+             2  Agents affecting individual organs
+              23  Digestive organ agents
+               239  Miscellaneous
+                2391  Antiemetics
+                 D00454  Olanzapine (JAN/USAN/INN)
+            Drug classes of therapeutic agents [br08360.html]
+             Psychiatric agents
+              D00454
+            New drug approvals in Europe [br08329.html]
+             European public assessment reports (EPAR) authorised medicine
+              D00454
+            New drug approvals in Japan [br08318.html]
+             Drugs with new active ingredients
+              D00454
+DBLINKS     CAS: 132539-06-1
+            PubChem: 7847520
+            ChEBI: 7735
+            ChEMBL: CHEMBL715
+            DrugBank: DB00334
+            LigandBox: D00454
+            NIKKAJI: J489.991A
+ATOM        22
+            1   C8y C    18.4919  -10.5513
+            2   C8y C    17.6483   -9.4316
+            3   C8y C    17.9905   -8.0673
+            4   N4x N    19.2617   -7.4901
+            5   N5x N    19.9065  -10.5817
+            6   C8y C    20.5211   -8.1208
+            7   C8y C    20.8046   -9.4994
+            8   S2x S    16.7987   -7.3203
+            9   C8y C    15.7200   -8.2230
+            10  C8x C    16.2450   -9.4575
+            11  C1a C    14.3803   -7.9003
+            12  N1y N    17.7660  -11.7484
+            13  C8x C    22.1331   -9.9409
+            14  C8x C    23.1798   -9.0111
+            15  C8x C    22.8963   -7.6326
+            16  C8x C    21.5678   -7.1910
+            17  C1x C    16.3806  -11.7887
+            18  C1x C    15.7162  -13.0210
+            19  N1y N    16.4511  -14.2126
+            20  C1x C    17.8365  -14.2422
+            21  C1x C    18.5010  -12.9400
+            22  C1a C    15.7566  -15.4262
+BOND        25
+            1     3   4 1
+            2     1   5 2
+            3     4   6 1
+            4     2   3 2
+            5     5   7 1
+            6     1   2 1
+            7     6   7 1
+            8     3   8 1
+            9     8   9 1
+            10    9  10 2
+            11    2  10 1
+            12    9  11 1
+            13    1  12 1
+            14    7  13 2
+            15   13  14 1
+            16   14  15 2
+            17   15  16 1
+            18    6  16 2
+            19   12  17 1
+            20   17  18 1
+            21   18  19 1
+            22   19  20 1
+            23   20  21 1
+            24   12  21 1
+            25   19  22 1
+///
